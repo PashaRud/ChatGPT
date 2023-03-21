@@ -1,0 +1,14 @@
+bot:
+  name: <ChatGPTAlphaBeta001bot>
+  token: <6223130506:AAFR_Ar7Q4AYEFo4RJ8KXvDAjmYO9U8a8nI>
+  text:
+    model: text-davinci-003
+    temperature: 0.7
+    max-tokens: 500
+    top-p: 1
+    frequency-penalty: 0
+    presence-penalty: 0
+api:
+  token: Bearer <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>
+  url:
+    completions: https://api.openai.com/v1/completions
